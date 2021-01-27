@@ -2,9 +2,10 @@
 
 A python program to play chess.
 
-## Usage
+## Setup
 
 In the root of the project run
 ```bash
 python chess.py
 ```
+
